@@ -17,7 +17,7 @@
   }
 
   & .title {
-    @apply text-6xl font-bold uppercase tracking-widest text-gray-800;
+    @apply text-center text-6xl font-bold uppercase tracking-widest text-gray-800;
   }
 }
 
